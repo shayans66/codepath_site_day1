@@ -1,0 +1,25 @@
+/* body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+} */
+
+body{
+  font-family:Arial, Helvetica, sans-serif;
+  background-image: url("https://images.unsplash.com/photo-1517495306984-f84210f9daa8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2t5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60");
+}
+.header{
+  text-align: center;
+}
+#projects{
+  margin: 40px;
+
+}
+#projects > img{
+  float: right
+}
+#projects > p {
+  text-align: center;
+  padding: 100px 0px 0px;
+  
+}
