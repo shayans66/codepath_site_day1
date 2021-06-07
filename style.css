@@ -23,3 +23,10 @@ body{
   padding: 100px 0px 0px;
   
 }
+#biography{
+  text-align: center;
+}
+#biography {
+  float: left;
+  margin: 40px;
+}
